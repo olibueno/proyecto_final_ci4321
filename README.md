@@ -1,4 +1,4 @@
-# Proyecto 2: Tankmageddon
+# Proyecto 3: Tankmageddon
 
 
 ## Autores
@@ -8,12 +8,11 @@ Oliver Bueno 15-10192
 
 ## Descripción
 
-- En esta parte del proyecto se trabajo con mapas de normales, además de ello se agreganron mapas de rugosidad y aomaps.
-- Se aborda también el cambio de iluminación de la luz direccional.
-- Se añadieron elementos basados en tipografía y creación/importación de mapa de sprites.
-- Se agregó una barra de energía para indicar la cantidad de proyectiles restantes.
-- Se implementaron las camaras en primera y tercera persona.
-- Se importo un modelo 3D, junto con sus texturas y materiales.
+En esta parte del proyecto se trabajo con tipos de luces y sistema de partículas.
+- Se añadieron spotligths que simulan luces para el tanque.
+- Se añadieron pointligths para la luces de los faros en la carretera.
+- Se agrego el sistema de partículas para generar nieve.
+- Se agrego un sistema de particular para la explosión de los objetivos.
 
 ## Instrucciones para el manejo del tanque de guerra
 
@@ -23,6 +22,8 @@ Oliver Bueno 15-10192
 - Para disparar los proyectiles con movimiento rectilineo presionar la tecla Q
 - Para disparar los proyectiles con movimiento parabolico presionar la tecla E
 - Para cambiar de vista/camara presionar la tecla C hasta encontrar la que mejor se adapte a tu gusto.
+- Para cambiar la intensidad de las luces que emiten los faros del tanque presionar la tecla L.
+- Para activar/desactivar la nieve presionar la tecla R
 
 DIVIERTETE APUNTANDO Y DISPARANDO CON TU MINI TANQUE DE GUERRA EN THREE.JS!!!!
 
